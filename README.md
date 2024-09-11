@@ -25,6 +25,10 @@
     ```env
     GITHUB_TOKEN=your_github_token
     ```
+5. Запустите скрипт
+```commandline
+python test_api.py
+```
 
 ## Использование
 
